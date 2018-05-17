@@ -1,0 +1,41 @@
+.head {
+  text-align: center;
+  margin-top: 1.066667rem;
+}
+
+.back {
+  line-height: 1.066667rem;
+  font-size: 0.32rem;
+}
+
+.input-group {
+  width: 4.266667rem;
+  border: 0.010667rem solid #ccc;
+  margin: 0.426667rem auto;
+  height: 0.533333rem;
+}
+
+.input-group span {
+  width: 0.3rem;
+  height: 0.426667rem;
+  padding: 0.106667rem;
+  float: left;
+}
+
+.input-group input {
+  width: 3.5rem;
+  height: 0.533333rem;
+  float: left;
+  border-left: 0.010667rem solid #ccc;
+}
+
+.login {
+  width: 2.133333rem;
+  height: 0.533333rem;
+  margin: 0.426667rem auto;
+  display: block;
+  background: #3399cc;
+  border: none;
+  border-radius: 0.053333rem;
+  color: #fff;
+}
